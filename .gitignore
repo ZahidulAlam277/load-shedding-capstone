@@ -1,0 +1,14 @@
+# Python & Environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Data & Notebook checkpoints
+.ipynb_checkpoints/
+data/raw/
+data/processed/
+*.csv
+
+# VS Code settings
+.vscode/
